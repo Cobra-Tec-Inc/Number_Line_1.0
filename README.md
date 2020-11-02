@@ -1,7 +1,7 @@
 # Number_Line_1.0
 
 ## How to run 
-Download the code, unzip the file, run the .exe file. I should recomend one thing DON'T try this on a Mac cause we only made it for Windows.
+Download the code, unzip the file, run the .exe file. I should recommend one thing DON'T try this on a Mac cause we only made it for Windows.
 
 ## Usage 
 - slash = division
