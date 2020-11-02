@@ -4,10 +4,10 @@
 Download the code, unzip the file, run the .exe file. I should recomend one thing DON'T try this on a Mac cause we only made it for Windows.
 
 ## Usage 
-- / = division
-- * = multiplication
-- + = addition
-- - = subtraction
+- slash = division
+- star = multiplication
+- plus = addition
+- minus = subtraction
 
 ## Warning
 There are a few bugs with the program like you can put a operator in first unless it is a negative otherwise it wont work and you will get an error in the code.
