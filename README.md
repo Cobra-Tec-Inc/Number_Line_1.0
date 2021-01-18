@@ -9,10 +9,6 @@ Download the code, unzip the file, run the .exe file. I should recommend one thi
 - plus = addition
 - minus = subtraction
 
-## Warning
-There are a few bugs with the program like you can put a operator in first unless it is a negative otherwise it wont work and you will get an error in the code.
-We will try to fix these problems in the next version.
-
 ## Photos
 ![Screenshot (18)](https://user-images.githubusercontent.com/73581388/97837145-52138980-1ce6-11eb-8f79-b2888fd7f107.png)
 
